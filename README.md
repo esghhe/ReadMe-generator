@@ -43,3 +43,5 @@ The above gif is a demonstration of how this 'deployed' application work.
 - On success a README.md will be generated
 
 ## Additional Info: 
+- Github: [esghhe](https://github.com/esghhe)
+- Email: samghagos@gmail.com 
