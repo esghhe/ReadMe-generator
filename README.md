@@ -36,3 +36,10 @@ The above gif is a demonstration of how this 'deployed' application work.
 - Download it through Github
 - Ensure inquirer is installed
 
+## Usage:
+- Open terminal
+- Type 'node index.js'
+- Answer the promots that follow
+- On success a README.md will be generated
+
+## Additional Info: 
