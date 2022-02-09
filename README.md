@@ -10,7 +10,7 @@
 - [Additional Info](#additional-info)
 
 ## Visual Presentation
-![Professional Readme Generator Demo](/assets/images/readme-demo.mp4)
+![Professional Readme Generator Demo](/assets/images/readme-demo.MP4)
 
 
 ## Description:
