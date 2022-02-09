@@ -1,4 +1,4 @@
-# A Profossional ReadMe Generator
+# A Professional ReadMe Generator
 
 ## Licensing:
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
@@ -10,7 +10,7 @@
 - [Additional Info](#additional-info)
 
 ## Visual Presentation
-![Professional Readme Generator Demo](/assets/images/)
+![Professional Readme Generator Demo](/assets/images/readme-demo.mp4)
 
 
 ## Description:
